@@ -14,6 +14,11 @@
 
 ## Course Assistants:
 
+## Course Link: 
+
+<img src="Images/qr-code.png" width="150" height="150">
+
+
 
 
 
