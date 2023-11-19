@@ -33,12 +33,19 @@
 - Day 5: exams MCQ and coding
 
 8:30AM - 9:00AM :  Breakfast
+
 9:00AM - 10:30AM : Lecture
+
 10:30AM - 10:40AM : Break
+
 10:40AM - 12:00PM : Lecture
+
 12:00PM - 1:30PM : Lunch
+
 1:30PM - 3:30PM : Lecture
+
 3:30PM - 3:40PM : Break
+
 3:40PM - 5:00PM : Lecture
 
 
@@ -53,4 +60,5 @@ These images won't be used anywhere, it is just a verification of their attendan
 
 ## Day 1 Feedback Link
 
+<img src="Images/feedback_1.jpg" width=150 height=150>
 
