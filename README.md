@@ -14,6 +14,12 @@
 
 ## Course Assistants:
 
+- Ahmed Almohammed
+- Hassain Alsayhah
+- Kumail Alawa
+- Faisal Alharthi
+- Saeed Bawazeer
+
 ## Course Link: 
 
 <img src="Images/qr-code.png" width="150" height="150">
