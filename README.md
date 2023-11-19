@@ -31,6 +31,6 @@ For girls, they can take a picture of their badge
 
 These images won't be used anywhere, it is just a verification of their attendance
 
-<img src="Images/qr-code.png" width="150" height="150">
+<img src="Images/qr.png" width="150" height="150">
 
 
