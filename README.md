@@ -38,10 +38,10 @@
 | 9:00AM - 10:30AM | Lecture     |
 | 10:30AM - 10:40AM    | Break    |
 | 10:40AM - 12:00PM | Lecture |
-| 12:00PM - 1:30PM | Lunch |
-| 1:30PM - 3:30PM | Lecture |
-| 3:30PM - 3:40PM | Break |
-| 3:40PM - 5:00PM | Lecture |
+| 12:00PM - 1:00PM | Lunch |
+| 1:00PM - 3:00PM | Lecture |
+| 3:00PM - 3:10PM | Break |
+| 3:10PM - 5:00PM | Lecture |
 
 
 ## Attendance link:
