@@ -30,7 +30,7 @@
 - Day 2: Logistic Regression
 - Day 3: Neural Networks
 - Day 4: Applications 
-- Day 5: exams MCQ and coding
+- Day 5: Exams MCQ and coding
 
 | Time    | Activity |
 | -------- | ------- |
