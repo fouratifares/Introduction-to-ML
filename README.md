@@ -53,7 +53,7 @@ These images won't be used anywhere, it is just a verification of their attendan
 
 <img src="Images/qr.jpeg" width="150" height="150">
 
-## Day 2 Feedback Link
+## Day 3 Feedback Link
 
-<img src="Images/feedback_2.jpg" width=150 height=150>
+<img src="Images/feedback_3.jpg" width=150 height=150>
 
