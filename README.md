@@ -15,10 +15,10 @@
 
 ## Course Outline:
 
-- Day 1: Linear Regression
-- Day 2: Logistic Regression
+- Day 1: AI Intorduction and Linear Regression
+- Day 2: Logistic Regression and Gradient Descent
 - Day 3: Neural Networks
-- Day 4: Applications 
+- Day 4: Applications
 - Day 5: Exams MCQ and Coding
 
 ## Course Schedule:
