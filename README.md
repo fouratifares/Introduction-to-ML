@@ -43,6 +43,7 @@
 | 3:00PM - 3:10PM | Break |
 | 3:10PM - 5:00PM | Lecture |
 
+<!---
 
 ## Attendance link:
 Students are required to fill it out and submit a picture of themselves in the venue.
@@ -56,4 +57,7 @@ These images won't be used anywhere, it is just a verification of their attendan
 ## Day 3 Feedback Link
 
 <img src="Images/feedback_3.jpg" width=150 height=150>
+
+-->
+
 
