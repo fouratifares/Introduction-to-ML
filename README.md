@@ -1,24 +1,5 @@
 # Introduction-to-ML
 
-## Course Outline and Schedule:
-
-- Day 1: Linear Regression
-- Day 2: Logistic Regression
-- Day 3: Neural Networks
-- Day 4: Applications 
-- Day 5: Exams MCQ and Coding
-
-| Time    | Activity |
-| -------- | ------- |
-| 8:30AM - 9:00AM  | Breakfast    |
-| 9:00AM - 10:30AM | Lecture     |
-| 10:30AM - 10:40AM    | Break    |
-| 10:40AM - 12:00PM | Lecture |
-| 12:00PM - 1:00PM | Lunch |
-| 1:00PM - 3:00PM | Lecture |
-| 3:00PM - 3:10PM | Break |
-| 3:10PM - 5:00PM | Lecture |
-
 ## Course Instructors:
 
 - [Fares Fourati](https://fouratifares.github.io/faresfourati.github.io/)
@@ -32,12 +13,33 @@
 - Faisal Alharthi
 - Saeed Bawazeer
 
-## Course Link: 
+## Course Outline:
 
-<img src="Images/qr-code.png" width="150" height="150">
+- Day 1: Linear Regression
+- Day 2: Logistic Regression
+- Day 3: Neural Networks
+- Day 4: Applications 
+- Day 5: Exams MCQ and Coding
+
+## Course Schedule:
+
+| Time    | Activity |
+| -------- | ------- |
+| 8:30AM - 9:00AM  | Breakfast    |
+| 9:00AM - 10:30AM | Lecture     |
+| 10:30AM - 10:40AM    | Break    |
+| 10:40AM - 12:00PM | Lecture |
+| 12:00PM - 1:00PM | Lunch |
+| 1:00PM - 3:00PM | Lecture |
+| 3:00PM - 3:10PM | Break |
+| 3:10PM - 5:00PM | Lecture |
 
 
 <!---
+
+## Course Link: 
+
+<img src="Images/qr-code.png" width="150" height="150">
 
 ## Attendance link:
 Students are required to fill it out and submit a picture of themselves in the venue.
