@@ -2,7 +2,7 @@
 
 ## Course Instructors:
 
-- [Fares Fourati](https://fouratifares.github.io/faresfourati.github.io/)
+- [Fares Fourati](https://fouratifares.github.io/website/)
 - [Salma Kharrat](https://salmakh1.github.io/salma_kharrat/)
 
 ## Course Assistants:
